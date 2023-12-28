@@ -1,0 +1,30 @@
+name = "lapce-nim"
+version = "0.0.0"
+author = "bung"
+display-name = "Nim"
+description = "Nim for Lapce"
+wasm = "bin/lapce-nim.wasm"
+
+[activation]
+language = []
+workspace-contains = []
+
+[config."volt.serverPath"]
+default = ""
+description = "Path to custom LSP executable"
+
+# [config."volt.serverArgs"]
+# default = []
+# description = ""
+
+# [config."lspSettingArray"]
+# default = []
+# description = ""
+
+# [config."lspSettingString"]
+# default = ""
+# description = ""
+
+# [config."lspSettingBool"]
+# default = false
+# description = ""

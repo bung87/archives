@@ -1,0 +1,5 @@
+
+beautifulsoup4==4.6.3
+datasketch==1.2.7
+simhash==1.9.0
+jenkins-cffi==1.0.2.1
